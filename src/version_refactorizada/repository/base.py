@@ -23,3 +23,4 @@ class SolicitudRepository(ABC):		# Interfaz abstracta (no se instancia): desacop
     @abstractmethod
     def obtener_todos(self) -> List[Solicitud]:		# Devuelve todas las solicitudes almacenadas
         pass
+
