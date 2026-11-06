@@ -1,4 +1,4 @@
-"""
+""" 
 src/version_refactorizada/domain/dtos.py: hacemos mas seguro y desacoplado el codigo inicial
 
 """
