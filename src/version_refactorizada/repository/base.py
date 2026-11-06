@@ -1,4 +1,3 @@
-
 """
 src/version_refactorizada/repository/base.py: hacemos una inversión de dependencias mediante una interfaz abstracta
 
